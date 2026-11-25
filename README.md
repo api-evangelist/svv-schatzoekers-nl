@@ -1,4 +1,4 @@
-# svv-schatzoekers-nl
+# SVV-Schatzoekers
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-svv-schatzoekers-nl is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://svv-schatzoekers.nl/
+SVV‑Schatzoekers is a Dutch online retailer specializing in anime‑themed figures, Funko Pop! collectibles and related merchandise. The store offers a wide range of products across multiple fandoms, including Star Wars, Marvel, Harry Potter, and popular anime series. Customers can browse collections, view detailed product pages, and purchase items with free shipping on orders over €95 within the Netherlands. The website features a Discord community, Instagram integration, and a responsive shopping cart for a seamless buying experience.
+
+**Areas:** Company · Retail · E-commerce · Anime · Collectibles · Netherlands
+
+## SVV-Schatzoekers on APIs.io
+
+Everything profiled for SVV-Schatzoekers is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/svv-schatzoekers-nl/](https://apis.io/providers/svv-schatzoekers-nl/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Storefront GraphQL API](https://apis.io/apis/svv-schatzoekers-nl/storefront-graphql-api/) — Shopify Storefront GraphQL API used by the SVV‑Schatzoekers online store. Provides product, cart and checkout operations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SVV-Schatzoekers Domain Security](https://apis.io/security/svv-schatzoekers-nl/svv-schatzoekers-nl-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://svv-schatzoekers.nl/)
+- [Terms of service](https://svv-schatzoekers.nl/policies/legal-notice)
+- [Privacy policy](https://svv-schatzoekers.nl/policies/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.0** — minimal · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 7.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/svv-schatzoekers-nl/](https://apis.io/providers/svv-schatzoekers-nl/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SVV-Schatzoekers: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/svv-schatzoekers-nl/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
